@@ -14,6 +14,7 @@
 		<Item Name="libs" Type="Folder">
 			<Item Name="CDM-Config.lvlib" Type="Library" URL="../../lv-cdm/CDM-Config/CDM-Config.lvlib"/>
 		</Item>
+		<Item Name="Pref Tests.lvlib" Type="Library" URL="../Pref Tests/Pref Tests.lvlib"/>
 		<Item Name="User Prefs.lvlib" Type="Library" URL="../User Prefs/User Prefs.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
